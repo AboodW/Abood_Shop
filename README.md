@@ -17,4 +17,23 @@ hello there , in this e-commerce project i used nextjs,firebase for signin,signu
 ## pages
 
 1.signin
-![image description](image url)
+![image description](https://github.com/AboodW/Abood_Shop/blob/main/assets/sign%20in.png)
+
+2.signup
+![image description](https://github.com/AboodW/Abood_Shop/blob/main/assets/signup.png)
+
+3.home page
+![image description](https://github.com/AboodW/Abood_Shop/blob/main/assets/home%20page.png)
+
+4.products
+![image description](https://github.com/AboodW/Abood_Shop/blob/main/assets/product%20add.png)
+
+5.stripe page
+![image description](https://github.com/AboodW/Abood_Shop/blob/main/assets/stripe.png)
+
+6.success page (if the payment is okay)
+![image description](https://github.com/AboodW/Abood_Shop/blob/main/assets/success%20page.png)
+
+## live
+
+[link description](https://abood-shop-laj5.vercel.app/)
